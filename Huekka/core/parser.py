@@ -1,3 +1,4 @@
+#ernqk;erhqejhl'qh;oq';ohjq;ehqh;qEhqk
 import logging
 from telethon import types
 from telethon.extensions import markdown
