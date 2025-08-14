@@ -1,4 +1,4 @@
-#хуй
+#хуйрррррррр
 import logging
 from telethon import types
 from telethon.extensions import markdown
